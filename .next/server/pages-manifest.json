@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/thoughts/[thoughtid]/comments": "pages/api/thoughts/[thoughtid]/comments.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/thoughts/[thoughtid]": "pages/api/thoughts/[thoughtid].js",
+  "/api/thoughts": "pages/api/thoughts.js",
+  "/home": "pages/home.js"
+}
